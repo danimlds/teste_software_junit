@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\danie\Desktop\danimlds\cursos\teste de software\projeto\.metadata\.plugins\org.eclipse.jdt.core
+1519549194.index
+3462621990.index
